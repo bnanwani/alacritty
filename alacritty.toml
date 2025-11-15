@@ -9,9 +9,11 @@ opacity = 0.9
 blur = true
 
 [font]
-size=18
-normal = { family = "Hack Nerd Font Mono", style = "Regular" }
-bold = { family = "Hack Nerd Font Mono", style = "Regular" }
+size=16
+# normal = { family = "Hack Nerd Font Mono", style = "Regular" }
+# bold = { family = "Hack Nerd Font Mono", style = "Regular" }
+normal = { family = "Lilex", style = "Light" }
+bold = { family = "Lilex", style = "Regular" }
 
 [mouse]
 hide_when_typing = true
